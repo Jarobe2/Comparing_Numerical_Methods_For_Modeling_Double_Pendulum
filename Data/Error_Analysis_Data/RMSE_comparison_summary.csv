@@ -1,0 +1,65 @@
+Initial Angle (deg),30
+Metric,DOP853,GL8,bs_adaptive_free
+RMSE Bob 1 (m),0.049677,0.054655,0.063225
+RMSE Bob 2 (m),0.120133,0.126558,0.131979
+Combined RMSE (m),0.091923,0.097478,0.103479
+Angular RMSE Bob 1 (rad),0.558887,0.615093,0.752492
+Time before divergence,0.3346,0.3346,0.3346
+RMSE Bob 2 pre-divergence,0.043683,0.043683,0.043683
+RMSE Bob 2 post-divergence,0.120235,0.126666,0.132093
+Interpolation Error Bob 1,1e-06,1e-06,1e-06
+Interpolation Error Bob 2,1e-06,1e-06,1e-06
+Computation Time (s),0.8107,233.4721,8.562
+
+Initial Angle (deg),60
+Metric,DOP853,GL8,bs_adaptive_free
+RMSE Bob 1 (m),0.099934,0.098543,0.077882
+RMSE Bob 2 (m),0.178931,0.158929,0.14283
+Combined RMSE (m),0.144919,0.132229,0.115035
+Angular RMSE Bob 1 (rad),1.163685,1.2258,0.953495
+Time before divergence,0.2672,0.2672,0.2672
+RMSE Bob 2 pre-divergence,0.055021,0.055021,0.055021
+RMSE Bob 2 post-divergence,0.179037,0.15902,0.14291
+Interpolation Error Bob 1,1e-06,1e-06,1e-06
+Interpolation Error Bob 2,1e-06,1e-06,1e-06
+Computation Time (s),1.1589,286.5458,10.2001
+
+Initial Angle (deg),90
+Metric,DOP853,GL8,bs_adaptive_free
+RMSE Bob 1 (m),0.137234,0.112459,0.107682
+RMSE Bob 2 (m),0.199268,0.169496,0.163771
+Combined RMSE (m),0.171086,0.143833,0.138594
+Angular RMSE Bob 1 (rad),1.807622,1.485595,1.348403
+Time before divergence,0.1454,0.1454,0.1454
+RMSE Bob 2 pre-divergence,0.04338,0.04338,0.04338
+RMSE Bob 2 post-divergence,0.199316,0.169536,0.16381
+Interpolation Error Bob 1,1e-06,1e-06,1e-06
+Interpolation Error Bob 2,1e-06,1e-06,1e-06
+Computation Time (s),2.1728,396.2745,14.629
+
+Initial Angle (deg),120
+Metric,DOP853,GL8,bs_adaptive_free
+RMSE Bob 1 (m),0.083484,0.071092,0.144202
+RMSE Bob 2 (m),0.144561,0.137853,0.201321
+Combined RMSE (m),0.118041,0.109676,0.175106
+Angular RMSE Bob 1 (rad),0.942292,0.800988,1.924583
+Time before divergence,0.1665,0.1665,0.1665
+RMSE Bob 2 pre-divergence,0.045033,0.045033,0.045033
+RMSE Bob 2 post-divergence,0.144599,0.137889,0.201376
+Interpolation Error Bob 1,1e-06,1e-06,1e-06
+Interpolation Error Bob 2,1e-06,1e-06,1e-06
+Computation Time (s),1.4266,398.8992,16.7751
+
+Initial Angle (deg),150
+Metric,DOP853,GL8,bs_adaptive_free
+RMSE Bob 1 (m),0.125035,0.120092,0.127895
+RMSE Bob 2 (m),0.187109,0.17321,0.183519
+Combined RMSE (m),0.159128,0.149036,0.158171
+Angular RMSE Bob 1 (rad),1.559939,1.600749,1.641738
+Time before divergence,0.3875,0.3875,0.3875
+RMSE Bob 2 pre-divergence,0.049768,0.049768,0.049768
+RMSE Bob 2 post-divergence,0.187214,0.173307,0.183622
+Interpolation Error Bob 1,1e-06,1e-06,1e-06
+Interpolation Error Bob 2,1e-06,1e-06,1e-06
+Computation Time (s),2.034,544.9325,16.592
+

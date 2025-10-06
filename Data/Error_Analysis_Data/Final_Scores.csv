@@ -1,0 +1,4 @@
+Solver,Total Accuracy Score,Stability Score,Efficiency Score,Overall Score
+DOP853,4.97,8.76,10.00,7.74
+bs_adaptive_free,4.09,8.90,9.68,7.29
+GL8,6.69,9.54,0.00,4.59
